@@ -8,5 +8,6 @@ It can create, read, update and delete the database with the APIs in it.
 The relationship between the models are of type @OneTOMany and @ManyToOne.
 # Architecture
 Spring Data JPA is used in the persistence layer and MySQL is used as the database.
-# Problems to fix
+# Tracked issues
 The relationship is not established properly, so you might face some trouble while going through it. Though, it could be solved with a little bit of work.
+git.ignore is not set, so all files are added.
