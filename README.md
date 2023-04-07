@@ -1,8 +1,8 @@
 # Insurance management platform
 This project has three domain models, Client, InsurancePolicy and Claims.
-All the models have their respective JPArepositories and controllers to perform all the t RESTful API calls.
+All the models have their respective JPArepositories and controllers to perform all the RESTful API calls.
 # Features
-The given RESTful APIs can perform all the required CRUD operations whithot any error.
+The given RESTful APIs can perform all the required CRUD operations without any error.
 It can create, read, update and delete the database with the APIs in it.
 # Relationship between models
 The relationship between the models are of type @OneTOMany and @ManyToOne.
